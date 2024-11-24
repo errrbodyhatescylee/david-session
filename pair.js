@@ -58,19 +58,22 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃QUEEN_ANITA_V2 SESSION IS 
-┃SUCCESSFULLY
-┃CONNECTED ✅🔥
+┃❍ SESSION_ID CONNECTED ❤️🧸
+┃❍ FORWARD SESSION_ID TO YOUR
+┃DEPLOYER ❤️🧸
+┃❍ teddyBot-V1, ENJOY ❤️🧸
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 DAVID CYRIL 𖥘
+|| Creator = メ CADILLAC CYLEE メ
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L
+|| WhatsApp Channel = https://whatsapp.com/channel/0029VaqGmzIFsn0iKZkhUL2c
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+|| WhatsApp Group = https://chat.whatsapp.com/GPVV0FH9cF6Kz0MqPLpxVp
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?👉 https://t.me/deecee_x 👈
+Wanna talk to me?🧸 https://w.me/27615045572 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 David Cyril*
+©*2024-2099 Cadillac Cylee*
 
 _Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
