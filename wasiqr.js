@@ -60,17 +60,20 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃QUEEN_KYLIE_V1 SESSION IS 
-┃SUCCESSFULLY
-┃CONNECTED 👸❤️🧸
+┃SESSION_ID Connected ❤️🧸
+┃Foward SESSION_ID
+┃to your deployer ❤️🧸
+┃Enjoy teddyBot-V1 ❤️🧸
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 Cadillac Cylee 𖥘
+|| Creator = 𖥘 Cadillac Cylee 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VavkrOID38CSgcyfbM07
+|| WhatsApp Channel = https://whatsapp.com/channel/0029VaqGmzIFsn0iKZkhUL2c
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+|| WhatsApp Group = https://chat.whatsapp.com/GPVV0FH9cF6Kz0MqPLpxVp
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me? 👸 https://w.me/27615045572
+Wanna talk to me?❤️🧸 https://w.me/27615045572 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*2024-2099 Cadillac Cylee*
 _____________________________________
