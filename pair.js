@@ -58,10 +58,10 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃SESSION_ID Connected ❤️🧸
+┃SESSION_ID Connected 👸❤️🧸
 ┃Foward SESSION_ID
-┃to your deployer ❤️🧸
-┃Enjoy QUEEN_KYLIE-V1 ❤️🧸
+┃to your deployer 👸❤️🧸
+┃Enjoy QUEEN_KYLIE-V1 👸❤️🧸
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 || Creator = 𖥘 Cadillac Cylee 𖥘
