@@ -61,19 +61,20 @@ router.get('/', async (req, res) => {
 ┃SESSION_ID Connected ❤️🧸
 ┃Foward SESSION_ID
 ┃to your deployer ❤️🧸
-┃Enjoy teddyBot-V1 ❤️🧸
+┃Enjoy QUEEN_KYLIE-V1 ❤️🧸
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 || Creator = 𖥘 Cadillac Cylee 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-|| WhatsApp Channel = https://whatsapp.com/channel/0029VaqGmzIFsn0iKZkhUL2c
+|| WhatsApp Channel = https://whatsapp.com/channel/0029VavkrOID38CSgcyfbM07
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-|| WhatsApp Group = https://chat.whatsapp.com/GPVV0FH9cF6Kz0MqPLpxVp
+|| WhatsApp Group = https://chat.whatsapp.com/DfzejIdGQGXB8Z2dm4Oj0E
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?❤️🧸 https://w.me/27615045572 
+Wanna talk to me?❤️🧸 +27615045572 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*2024-2099 Cadillac Cylee*
+*`chuckyXcyleeTech`*
 
 _Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
